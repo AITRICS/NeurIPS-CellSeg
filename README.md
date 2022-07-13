@@ -1,6 +1,10 @@
 # NeurIPS-CellSeg Competition
 A code repository for the [microscopy image segmentation challenge in NeurIPS 2022](https://neurips22-cellseg.grand-challenge.org/)
 
+## Rules
+1. 메인브랜치 푸쉬 전에는 slack을 통해 notify 한다.
+
+
 ## Requirements
 
 ```python
